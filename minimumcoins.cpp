@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 using namespace std;
-
 int minCoins(int coin[], int n, int amount)
 {
     sort(coin, coin + n);
